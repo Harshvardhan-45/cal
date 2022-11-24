@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Harshvardhan-45/cal.git/static/css/main.44674c9a.css",
+    "main.js": "/Harshvardhan-45/cal.git/static/js/main.3e065ad8.js",
+    "index.html": "/Harshvardhan-45/cal.git/index.html",
+    "main.44674c9a.css.map": "/Harshvardhan-45/cal.git/static/css/main.44674c9a.css.map",
+    "main.3e065ad8.js.map": "/Harshvardhan-45/cal.git/static/js/main.3e065ad8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44674c9a.css",
+    "static/js/main.3e065ad8.js"
+  ]
+}
